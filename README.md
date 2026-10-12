@@ -7,4 +7,4 @@ I'm a Computer Science undergraduate at [NUS](https://www.comp.nus.edu.sg/progra
   
 ### 📫 Connect With Me
 
-- **LinkedIn:** [My LinkedIn Profile](www.linkedin.com/in/sern-yuan-ong-656260301)
+- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/sern-yuan-ong-656260301)
