@@ -1,4 +1,4 @@
-## Hi, I'm Sern Yuan
+## Hi, I'm Sern Yuan👋
 
 I'm a Computer Science undergraduate at [NUS](https://www.comp.nus.edu.sg/programmes/ug/cs/), currently working as a full-stack developer.
 
