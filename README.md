@@ -1,14 +1,9 @@
-# Hi, I'm Sern Yuan 
+# Hi, I'm Sern Yuan, this i
 
 I'm a Computer Science undergraduate at [NUS](https://www.comp.nus.edu.sg/programmes/ug/cs/) 
 
-### 💻 Tech Stack
-
-- **Languages:** Java, Python, JavaScript / TypeScript
-- **Frontend:** Vue.js, React
-- **Backend:** Node.js, Express.js
-- **Databases:** PostgreSQL
-- **Tools:** Git, Linux, Bash
+### 💻 Stuff I've Used
+[![My Skills](https://skillicons.dev/icons?i=js,ts,java,python)](https://skillicons.dev)
   
 ### 📫 Connect With Me
 
