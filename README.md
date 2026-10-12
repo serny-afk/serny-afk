@@ -1,4 +1,4 @@
-# Hi, I'm Sern Yuan
+## Hi, I'm Sern Yuan
 
 I'm a Computer Science undergraduate at [NUS](https://www.comp.nus.edu.sg/programmes/ug/cs/), currently working as a full-stack developer.
 
@@ -6,5 +6,4 @@ I'm a Computer Science undergraduate at [NUS](https://www.comp.nus.edu.sg/progra
 [![My Skills](https://skillicons.dev/icons?i=js,ts,java,python,vue,react,postgres,express,godot)](https://skillicons.dev)
   
 ### 📫 Connect With Me
-
-- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/sern-yuan-ong-656260301)
+[My LinkedIn Profile](https://www.linkedin.com/in/sern-yuan-ong-656260301)
